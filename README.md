@@ -1,5 +1,5 @@
 ## Hands-on lectures for the _Management and Analysis of Physics Datasets - Module B (MAPD-B)_ course
-### M.Sc. in Physic of Data — University of Padova — Academic Year 2024-2025
+### M.Sc. in Physic of Data — University of Padova — Academic Year 2025-2026
 
 | Folder | Topic |
 |---|---|
