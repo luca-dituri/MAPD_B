@@ -1,4 +1,3 @@
-version: "3.9"
 services:
   dask-scheduler:
     image: jpazzini/mapd-b:dask-scheduler
