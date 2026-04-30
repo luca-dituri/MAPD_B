@@ -9,3 +9,11 @@ git pull upstream 2026
 git add .
 git commit -m " "
 git push
+
+
+
+
+# Da ricordare:
+
+dopo aver fatto cd, docker compose up  -d
+devi runnare la cella per usare ipython

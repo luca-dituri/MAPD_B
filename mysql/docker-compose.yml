@@ -8,6 +8,9 @@ services:
       MYSQL_ROOT_PASSWORD: "root_pwd"
     volumes:
       - $PWD:/mapd-workspace
+      - ./dbs/world.sql:/docker-entrypoint-initdb.d/world.sql
+      - ./dbs/IMDb_pruned.sql:/docker-entrypoint-initdb.d/IMDb_pruned.sql
+
     command: --secure_file_priv="/mapd-workspace"
 
   jupyter:

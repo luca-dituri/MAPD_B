@@ -132,3 +132,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# My stuff
+
+slides
+slides/
+mysql/dbs
+mysql/dbs/
+
+dock_up.txt
