@@ -52,6 +52,9 @@ docker compose down
 2. Build the `mapd_notebook` Docker image using `mapd_notebook` as the image tag (see the Docker slides for instructions)
 3. Test that the `docker compose` can be started (`up`) and stopped (`down`) succesfully 
 4. Download the `IMDb_pruned.sql` file (~350 MB) at the link you can find on Moodle and move it under the `MAPD-B/mysql/dbs/` path
+
+
+
 ### WORKFLOW:
 
 # Aggiorno rispetto alla repo del prof
